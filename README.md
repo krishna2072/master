@@ -1,2 +1,2 @@
 # master
-Master Application
+Master Application for reference and practice
